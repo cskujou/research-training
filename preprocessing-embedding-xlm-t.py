@@ -39,5 +39,5 @@ y_train = np.concatenate(y_train)
 X_val = np.concatenate(X_val)
 y_val = np.concatenate(y_val)
 
-with open("pickle_numpy", "wb") as f:
+with open("pickle_xlmt", "wb") as f:
     pickle.dump((X_train, y_train, X_val, y_val), f)
