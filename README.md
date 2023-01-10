@@ -18,4 +18,6 @@ transformers == 4.25.1
 wordfreq == 3.0.3
 xgboost == 1.7.2
 
-Conceptnet Numberbatch 语料库获取地址: https://github.com/commonsense/conceptnet-numberbatch，请下载`19.08/mini.h5`
+Conceptnet Numberbatch 语料库获取地址: https://github.com/commonsense/conceptnet-numberbatch
+
+请下载`19.08/mini.h5`
